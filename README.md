@@ -12,9 +12,7 @@
   1. [Excel Analysis](#excel-analysis)
   2. [SQL Queries](#sql-queries)
   3. [Power BI Dashboard](#power-bi-dashboard)
-+ [Key Findings](#key-findings)
 + [Dashboard Previews](#dashboard-previews)
-+ [Conclusion](#conclusion)
 ---
 ## Dataset Description
 #### This dataset contains the every information about the cars sold between 2022 and 2023. The dataset was gotten from kaggle and it contains 23,907 rows and 16 columns namely;
@@ -43,28 +41,24 @@
 ### Analysis and Isights
 #### After cleaning the dataset, I went ahead to analyze using the following tools, keeping in mind the business objectives earlier communicated by the stakeholders.
 ## Excel Analysis
-[Pivotting](https://ibb.co/rG5SJLRd))
+[Pivotting](https://ibb.co/rG5SJLRd)
 ### Insights
 + There were more sales made in the united kingdom
 + More sales were made in November across all years considered
 ## SQL Queries
-[Queries](https://ibb.co/Wvj1smts)
+[Queries](https://ibb.co/wFC4pCPN)
 ### Insights
-+ [Top 5 countries by sales- United KIngdom being the first](https://ibb.co/v6qj86yf)
-+ [Detecting negative quantities](https://ibb.co/Tqb00Zv5)
++ [Total number per body style](https://ibb.co/7dktMvJs) 
++ [Total slaes amount for 2022](https://ibb.co/5XFQKcbD)
++ [Sales for 2022 and 2023](https://ibb.co/Jw9ZRt2j)
++ [Average selling price](https://ibb.co/k2Kj4yhV)
++ [Average selling price for 2022 and 2023](https://ibb.co/vx2cRMWg)
 ## Power BI Dashboard
-[Total Revenue by Month and Sum of Quantity](https://ibb.co/svXLCmrW)
++ [Monthly Revenue by Transmission](https://ibb.co/VckfmKHY)
 ### Insights
-+ More sales were made in November across all years considered
----
-## Key Findings
-+ The store's monthly revenue shows that the store sold more in November [See it here](https://ibb.co/6JrDMyGn)
-+ The store's top customers by sales and number of orders can be seen [here](https://ibb.co/ZRbKXKtR) and [here](https://ibb.co/YmtXGPj)
-+ Repeat Customers vs one-time customers respectively. [Click for repeat](https://ibb.co/Q7KWbbXF) [Here for one-time](https://ibb.co/zVqkK4kQ)
-+ Top countries by total revenue [Click to see](https://ibb.co/1GkZy7q4)
-+ Top countries by number of customer [here](https://ibb.co/DfxX1xph)
++ More sales were made in November and December with auto cars, and in December for manual cars.
 ---
 ## Dashboard Previews
-1. [Excel Dashboard](https://ibb.co/v44qcFvT))
+1. [Excel Dashboard](https://ibb.co/v44qcFvT)
 2. Power BI Dashboards: [1](https://ibb.co/bgfzzDWj), [2](https://ibb.co/VckfmKHY), [3](https://ibb.co/5wxpFct), [4](https://ibb.co/QFxzDFwf), [5](https://ibb.co/GfXSsPV7)
 ---
